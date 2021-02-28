@@ -8,8 +8,8 @@
         "url": ""
     },
     "interface": {
-        "hidden": false,
-        "enabled": true,
+        "hidden": true,
+        "enabled": false,
         "children": "form"
     },
     "children": [],
