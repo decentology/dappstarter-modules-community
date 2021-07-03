@@ -1,0 +1,25 @@
+{
+    "name": "example_1",
+    "title": "Module Example 1",
+    "description": "Demonstrates module structure and syntax.",
+    "imageUrl": "",
+    "help": {
+        "title": "",
+        "url": ""
+    },
+    "interface": {
+        "hidden": true,
+        "enabled": false,
+        "children": "form"
+    },
+    "blockchains": [
+        "ethereum",
+        "matic"
+    ],
+    "languages": [
+        "solidity"
+    ],
+    "children": [],
+    "dependencies": {
+    }
+}

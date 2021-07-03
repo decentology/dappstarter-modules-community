@@ -1,2 +1,2 @@
-# dappstarter-dao-core
-DappStarter DAO Modules created and maintained by the Decentology team.
+# dappstarter-modules-community
+DappStarter modules created and maintained by community members
